@@ -1,0 +1,6 @@
+{
+  "name": "StatEngine Pro",
+  "description": "A comprehensive automated statistical laboratory and analysis suite powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
