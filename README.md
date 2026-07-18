@@ -32,4 +32,4 @@ StatEngine Pro 📊⚙️
 StatEngine Pro utilizes a robust **dual-engine pipeline** to ensure absolute data integrity.
 
 
-## I have used this <a href="[https://google.com](https://share.gemini.google/fgZqZmydP9W4)" target="_blank" rel="noopener noreferrer">gemini conversation</a> to make this app.
+## I have used this <a href="https://share.gemini.google/fgZqZmydP9W4" target="_blank" rel="noopener noreferrer">gemini conversation</a> to make this app.
